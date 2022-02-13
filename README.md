@@ -8,12 +8,14 @@
 - 💬 Ask me about Cloud Native Application Development 
 - 🌱 Improving my System Design and DSA skills
 - 🎓 Completed my Bachelors in Electronics & Communication Engineering
-- 📫 How to reach me: **agathemmanuel00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AgathEmmanuel">
   <img src="https://img.shields.io/badge/Twitter-00a9f7?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00a9f7" />
+</a>
+<a href="mailto:agathemmanuel00@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-f70000?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
   
 <h3 align="left">Languages and Tools:</h3>
