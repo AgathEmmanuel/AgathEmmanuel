@@ -1,6 +1,6 @@
 ### Hi, I'm Agath Emmanuel 👋
 
-<img src="./ag_bg.png" alt="Background_drawing" width="40%" />
+<img src="./ag_bg.png" alt="Background_drawing" width="100%" />
 
 ## About Me
 
