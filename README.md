@@ -1,7 +1,11 @@
 ### Hi, I'm Agath Emmanuel 👋
 
+<img href="./ag_bg.png" />
+
 ## About Me
-- 💡 DevOps and Cloud Native Development Enthusiast
+
+<img src="./ag_cn.png" align="right" />
+- 💡 DevOps and Cloud Native Enthusiast
 - 🌱 Currently learning Microservices with MERN stack
 - 👯 Looking to collaborate on Open Source DevOps Tools
 - 🤔 Exploring cross platform development with Flutter
