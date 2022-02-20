@@ -1,12 +1,13 @@
 ### Hi, I'm Agath Emmanuel 👋
 
-<img src="./ag_bg.png" alt="Background_drawing" width="100%" />
+
+<img src="https://github.com/AgathEmmanuel/AgathEmmanuel/blob/main/ag_bg.png" width="100%" >
 
 ## About Me
 
 <br>
 <br>
-<img src="./ag_cn.png" align="right" width="40%" />
+<img src="https://github.com/AgathEmmanuel/AgathEmmanuel/blob/main/ag_cn.png" align="right" width="40%" />
 <br>
 <br>
 
