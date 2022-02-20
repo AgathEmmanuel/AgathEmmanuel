@@ -16,6 +16,7 @@
 - 🤔 Exploring cross platform development with Flutter
 - 💬 Ask me about Cloud Native Application Development 
 - 🌱 Improving my System Design and DSA skills
+- 🌱 Focusing on Software Design and Computer Architecture
 - 🎓 Completed my Bachelors in Electronics & Communication Engineering
 
 <br>
