@@ -2,6 +2,7 @@
 
 
 <img src="https://github.com/AgathEmmanuel/AgathEmmanuel/blob/main/ag_bg.png" width="100%" >
+
 ## About Me
 
 <br>
