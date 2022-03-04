@@ -14,7 +14,7 @@
 - 💡 DevOps and Cloud Native Enthusiast
 - 🌱 Currently learning Microservices with MERN stack
 - 👯 Looking to collaborate on Open Source DevOps Tools
-- 🤔 Exploring cross platform development with Flutter
+- 🤔 Exploring Progressive Web App Development
 - 💬 Ask me about Cloud Native Application Development 
 - 🌱 Improving my System Design and DSA skills
 - 🌱 Focusing on Software Design and Computer Architecture
