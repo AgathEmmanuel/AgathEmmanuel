@@ -16,8 +16,8 @@
 - 👯 Looking to collaborate on Open Source DevOps Tools
 - 🤔 Exploring MLOps & DataOps
 - 💬 Ask me about Kubernetes Native Application Development 
-- 🌱 Improving my System Design and DSA skills
-- 🌱 Focusing on Software Design and Computer Architecture
+- 🌱 Improving my System Design and DSA knowledge
+- 🌱 Focusing on Software Design and Computer Microarchitecture
 - 🎓 Completed my Bachelors in Electronics & Communication Engineering
 
 <br>
