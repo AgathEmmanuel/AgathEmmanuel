@@ -12,7 +12,7 @@
 <br>
 
 - 💡 Platform Engineering and Cloud Native Enthusiast
-- 🌱 Learning Microservices archit & K8s Operator Development
+- 🌱 Learning Microservices & K8s Operator Development
 - 👯 Looking to collaborate on Open Source DevOps Tools
 - 🤔 Exploring MLOps & DataOps
 - 💬 Ask me about Kubernetes Native Applications  
