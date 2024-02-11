@@ -12,9 +12,9 @@
 <br>
 
 - 💡 Platform Engineering and Cloud Native Enthusiast
-- 💡 Interested in Microservices, K8s Operators, SRE & DevOps
+- 💡 Interested in Microservices, K8s Operators, SRE
 - 🌱 Learing MLOps & Reliable ML System Design
-- 🤔 Looking into Data Architectures, Data Warehouse, Lake, Mesh etc. 
+- 🤔 Looking into Data Warehouse, Lake, Mesh, Fabric
 - 💬 Ask me about Kubernetes Native Applications  
 - 🎓 Completed Bachelors in Electronics & Communication Engineering
 
