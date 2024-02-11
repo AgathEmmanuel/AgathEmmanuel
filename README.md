@@ -12,11 +12,10 @@
 <br>
 
 - 💡 Platform Engineering and Cloud Native Enthusiast
-- 🌱 Learning Microservices & K8s Operator Development
-- 👯 Looking to collaborate on Open Source DevOps Tools
-- 🤔 Exploring MLOps & DataOps
+- 💡 Interested in Microservices, K8s Operators, SRE & DevOps
+- 🌱 Learing MLOps & Reliable Ml System Design
+- 🤔 Looking into Data Architectures, Data Warehouse, Lake, Mesh etc. 
 - 💬 Ask me about Kubernetes Native Applications  
-- 🌱 Focusing on Software Design Patterns & System Design  
 - 🎓 Completed Bachelors in Electronics & Communication Engineering
 
 <br>
