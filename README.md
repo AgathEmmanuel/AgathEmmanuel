@@ -16,7 +16,7 @@
 - 🌱 Learing MLOps & Reliable ML System Design
 - 🤔 Looking into Data Warehouse, Lake, Mesh, Fabric
 - 💬 Ask me about Kubernetes Native Applications  
-- 🎓 Completed Bachelors in Electronics & Communication Engineering
+- 🎓 Bachelors in Electronics & Communication Eng
 
 <br>
 <br>
